@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Aarnav Shah</title>
+  <desc id="desc">A dark JavaScript editor showing Aarnav Shah: Computer Engineering at Waterloo; building software, machine learning, and hardware; interested in travelling, cubing, cards, and video editing.</desc>
+  <rect x="1" y="1" width="1198" height="318" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <path d="M13 1h1174a12 12 0 0 1 12 12v37H1V13A12 12 0 0 1 13 1Z" fill="#161b22"/>
+  <path d="M1 50h1198M77 50v269" stroke="#252b33"/>
+  <rect x="20" y="14" width="22" height="22" rx="3" fill="#e7c65b"/>
+  <text x="31" y="30" text-anchor="middle" font-family="Menlo,Consolas,monospace" font-size="12" font-weight="700" fill="#15191e">JS</text>
+  <text x="54" y="30" font-family="Menlo,Consolas,monospace" font-size="15" fill="#c9d1d9">aarnav.js</text>
+  <g font-family="Menlo,Consolas,'Liberation Mono',monospace" font-size="24" fill="#c9d1d9" xml:space="preserve">
+    <g fill="#535d6a" font-size="19" text-anchor="end">
+      <text x="56" y="95">1</text><text x="56" y="133">2</text><text x="56" y="171">3</text><text x="56" y="209">4</text><text x="56" y="247">5</text><text x="56" y="285">6</text>
+    </g>
+    <text x="104" y="95"><tspan fill="#ff7b72">const</tspan><tspan> aarnav </tspan><tspan fill="#ff7b72">=</tspan><tspan> {</tspan></text>
+    <text x="104" y="133">  <tspan fill="#79c0ff">name</tspan>: <tspan fill="#a5d6a7">&quot;Aarnav Shah&quot;</tspan>,</text>
+    <text x="104" y="171">  <tspan fill="#79c0ff">education</tspan>: <tspan fill="#a5d6a7">&quot;Computer Engineering @ Waterloo&quot;</tspan>,</text>
+    <text x="104" y="209">  <tspan fill="#79c0ff">builds</tspan>: [<tspan fill="#a5d6a7">&quot;software&quot;</tspan>, <tspan fill="#a5d6a7">&quot;machine learning&quot;</tspan>, <tspan fill="#a5d6a7">&quot;hardware&quot;</tspan>],</text>
+    <text x="104" y="247">  <tspan fill="#79c0ff">interests</tspan>: [<tspan fill="#a5d6a7">&quot;travelling&quot;</tspan>, <tspan fill="#a5d6a7">&quot;cubing&quot;</tspan>, <tspan fill="#a5d6a7">&quot;cards&quot;</tspan>, <tspan fill="#a5d6a7">&quot;video editing&quot;</tspan>],</text>
+    <text x="104" y="285">};</text>
+  </g>
+</svg>
