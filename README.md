@@ -1,4 +1,4 @@
-<a href="https://aarnavshah.vercel.app"><img src="./profile-intro.svg" alt="Aarnav Shah. Software, machine learning, and hardware. Computer Engineering at Waterloo." width="100%" /></a>
+<a href="https://aarnavshah.vercel.app"><img src="./profile-code.svg" alt="Aarnav Shah. Software, machine learning, and hardware. Computer Engineering at Waterloo." width="100%" /></a>
 
 <p align="center">
 <a href="https://aarnavshah.vercel.app"><b>Website ↗</b></a> &nbsp; · &nbsp;
