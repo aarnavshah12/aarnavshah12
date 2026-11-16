@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="384" viewBox="0 0 1280 384" role="img" aria-labelledby="title desc">
+  <title id="title">Aarnav Shah</title>
+  <desc id="desc">Computer vision, robots, and things I wanted to exist. A custom schematic illustration connects a camera, a Connect 4 board, and a robot arm.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b7d6c7" stroke-opacity=".08"/></pattern>
+    <linearGradient id="bg" x2="1" y2=".6"><stop stop-color="#10231f"/><stop offset="1" stop-color="#152d28"/></linearGradient>
+  </defs>
+  <rect width="1280" height="384" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="384" rx="18" fill="url(#grid)"/>
+  <path d="M48 44H72M48 44V68M1232 44H1208M1232 44V68M48 340H72M48 340V316M1232 340H1208M1232 340V316" stroke="#a8d9be" stroke-opacity=".4" stroke-width="2" fill="none"/>
+  <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="2" fill="#a7d7bd">
+    <text x="82" y="77">COMPUTER ENGINEERING / WATERLOO</text>
+    <text x="82" y="324" font-size="12" letter-spacing="1.4">COMPUTER VISION  ·  MACHINE LEARNING  ·  ROBOTICS</text>
+  </g>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="78" y="172" font-size="88" font-weight="750" letter-spacing="-5" fill="#f4f4e9">Aarnav Shah<tspan fill="#f5a66a">.</tspan></text>
+    <text x="82" y="228" font-size="24" fill="#d1dfd4">Computer vision, robots, and</text>
+    <text x="82" y="262" font-size="24" fill="#d1dfd4">things I wanted to exist.</text>
+  </g>
+  <path d="M702 65V319" stroke="#a8d9be" stroke-opacity=".16"/>
+  <g fill="none" stroke="#b9dac8" stroke-width="2">
+    <path d="M755 116h54v38h-54z" rx="4"/>
+    <path d="m809 126 17-8v33l-17-8"/>
+    <circle cx="782" cy="135" r="10"/>
+    <path d="M841 136h38v45h21" stroke-dasharray="5 7" stroke-opacity=".55"/>
+    <path d="M1007 265v30h47" stroke-dasharray="5 7" stroke-opacity=".55"/>
+  </g>
+  <g transform="translate(900 92)">
+    <rect width="224" height="195" rx="11" fill="#1d3c34" stroke="#a7d7bd" stroke-opacity=".25"/>
+    <g fill="#10251f" stroke="#527568" stroke-opacity=".4">
+      <circle cx="25" cy="24" r="11"/><circle cx="54" cy="24" r="11"/><circle cx="83" cy="24" r="11"/><circle cx="112" cy="24" r="11"/><circle cx="141" cy="24" r="11"/><circle cx="170" cy="24" r="11"/><circle cx="199" cy="24" r="11"/>
+      <circle cx="25" cy="53" r="11"/><circle cx="54" cy="53" r="11"/><circle cx="83" cy="53" r="11"/><circle cx="112" cy="53" r="11"/><circle cx="141" cy="53" r="11"/><circle cx="170" cy="53" r="11"/><circle cx="199" cy="53" r="11"/>
+      <circle cx="25" cy="82" r="11"/><circle cx="54" cy="82" r="11"/><circle cx="83" cy="82" r="11"/><circle cx="112" cy="82" r="11"/><circle cx="141" cy="82" r="11"/><circle cx="170" cy="82" r="11"/><circle cx="199" cy="82" r="11"/>
+      <circle cx="25" cy="111" r="11"/><circle cx="54" cy="111" r="11"/><circle cx="83" cy="111" r="11"/><circle cx="112" cy="111" r="11"/><circle cx="141" cy="111" r="11"/><circle cx="170" cy="111" r="11"/><circle cx="199" cy="111" r="11"/>
+      <circle cx="25" cy="140" r="11"/><circle cx="54" cy="140" r="11"/><circle cx="83" cy="140" r="11"/><circle cx="112" cy="140" r="11"/><circle cx="141" cy="140" r="11"/><circle cx="170" cy="140" r="11"/><circle cx="199" cy="140" r="11"/>
+      <circle cx="25" cy="169" r="11"/><circle cx="54" cy="169" r="11"/><circle cx="83" cy="169" r="11"/><circle cx="112" cy="169" r="11"/><circle cx="141" cy="169" r="11"/><circle cx="170" cy="169" r="11"/><circle cx="199" cy="169" r="11"/>
+    </g>
+    <g fill="#f5a66a"><circle cx="54" cy="169" r="11"/><circle cx="83" cy="140" r="11"/><circle cx="112" cy="111" r="11"/><circle cx="141" cy="82" r="11"/><circle cx="170" cy="169" r="11"/></g>
+    <g fill="#a8d9be"><circle cx="83" cy="169" r="11"/><circle cx="112" cy="169" r="11"/><circle cx="112" cy="140" r="11"/><circle cx="141" cy="169" r="11"/><circle cx="141" cy="140" r="11"/><circle cx="141" cy="111" r="11"/></g>
+    <path d="m47 176 101-101" stroke="#f5a66a" stroke-width="2" stroke-opacity=".75" stroke-dasharray="3 5"/>
+    <path d="M-7 14V-7h21M210-7h21v21M231 181v21h-21M14 202H-7v-21" fill="none" stroke="#a8d9be" stroke-width="2"/>
+  </g>
+  <g stroke="#a8d9be" fill="#152d28" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1144 300h54M1156 300v-20h28v20M1170 280l-29-40 30-36-18-27" fill="none"/>
+    <circle cx="1141" cy="240" r="6"/><circle cx="1171" cy="204" r="6"/>
+    <path d="m1153 177-8-6m8 6 6-9"/>
+  </g>
+  <g font-family="'SFMono-Regular',Consolas,monospace" font-size="12" letter-spacing="1.2" fill="#a7d7bd">
+    <text x="757" y="182">SEE</text><text x="974" y="66">THINK</text><text x="1142" y="327">MOVE</text>
+  </g>
+</svg>
