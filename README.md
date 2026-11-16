@@ -1,9 +1,9 @@
-<a href="https://aarnavshah.vercel.app"><img src="./profile-chat.svg" alt="Hey, I'm Aarnav. Computer Engineering at Waterloo. I build across software, machine learning, and hardware." width="100%" /></a>
+<a href="https://aarnavshah.vercel.app"><img src="./profile-intro.svg" alt="Aarnav Shah. Software, machine learning, and hardware. Computer Engineering at Waterloo." width="100%" /></a>
 
 <p align="center">
-<a href="https://aarnavshah.vercel.app"><b>Explore my website ↗</b></a> &nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/aarnav-shah-a120042b1/">Find me on LinkedIn</a> &nbsp; · &nbsp;
-<a href="#a-few-things-ive-built">Browse the projects ↓</a>
+<a href="https://aarnavshah.vercel.app"><b>Website ↗</b></a> &nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/aarnav-shah-a120042b1/">LinkedIn</a> &nbsp; · &nbsp;
+<a href="https://aarnavshah.vercel.app/#projects">More projects</a>
 </p>
 
 I'm a computer engineering student at **Waterloo**. I like the whole build: training the model, writing the app, and getting the hardware to cooperate. My projects tend to cross a few of those lines.
@@ -12,20 +12,50 @@ I'm a computer engineering student at **Waterloo**. I like the whole build: trai
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/aarnavshah12/shot-tracker"><img src="./project-shot-tracker.svg" alt="Shot Tracker: local basketball video analysis using RF-DETR and pose estimation." width="100%" /></a></td>
-<td width="50%"><a href="https://github.com/aarnavshah12/Tabula"><img src="./project-tabula.svg" alt="Tabula, a team project: breadboard photos to KiCad schematics and routed PCBs." width="100%" /></a></td>
+<td width="50%" valign="top">
+<a href="https://aarnavshah.vercel.app/assets/videos/shot-tracker.mp4"><img src="./media/shot-tracker.gif" alt="Shot Tracker: actual project demo" width="100%" /></a>
+<h3>Shot Tracker</h3>
+<p>Recorded basketball clips, broken down shot by shot.</p>
+<p><a href="https://github.com/aarnavshah12/shot-tracker">Code ↗</a> · <a href="https://aarnavshah.vercel.app/assets/videos/shot-tracker.mp4">Full demo ▶</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/aarnavshah12/Tabula"><img src="./media/tabula.jpg" alt="Tabula: actual project demo" width="100%" /></a>
+<h3>Tabula</h3>
+<p>A breadboard photo becomes a KiCad schematic and PCB.</p>
+<p><a href="https://github.com/aarnavshah12/Tabula">Code ↗</a> · team project</p>
+</td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/aarnavshah12/Package-Track"><img src="./project-package-track.svg" alt="Package Track: iPhone detection, cloud verification, and an ESP32 delivery lockbox." width="100%" /></a></td>
-<td width="50%"><a href="https://github.com/aarnavshah12/AutoDoc"><img src="./project-autodoc.svg" alt="AutoDoc, a team project: a VS Code extension for code comments and documentation." width="100%" /></a></td>
+<td width="50%" valign="top">
+<a href="https://aarnavshah.vercel.app/assets/videos/package-track.mp4"><img src="./media/package-track.gif" alt="Package Track: actual project demo" width="100%" /></a>
+<h3>Package Track</h3>
+<p>An iPhone camera, verified deliveries, and an ESP32 lockbox.</p>
+<p><a href="https://github.com/aarnavshah12/Package-Track">Code ↗</a> · <a href="https://aarnavshah.vercel.app/assets/videos/package-track.mp4">Full demo ▶</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/aarnavshah12/AutoDoc/raw/refs/heads/main/Autodoc%20Teaser.mp4"><img src="./media/autodoc.gif" alt="AutoDoc: actual project demo" width="100%" /></a>
+<h3>AutoDoc</h3>
+<p>Code comments and documentation, straight from VS Code.</p>
+<p><a href="https://github.com/aarnavshah12/AutoDoc">Code ↗</a> · <a href="https://github.com/aarnavshah12/AutoDoc/raw/refs/heads/main/Autodoc%20Teaser.mp4">Full demo ▶</a> · team project</p>
+</td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/aarnavshah12/Gesture-Chess"><img src="./project-gesture-chess.svg" alt="Gesture Chess: webcam hand controls using OpenCV, MediaPipe, and Pygame." width="100%" /></a></td>
-<td width="50%"><a href="https://github.com/aarnavshah12/connect4-robot"><img src="./project-connect4.svg" alt="Connect 4 Robot: camera-based gameplay and an ESP32 robot arm, with a PyTorch PPO and neural MCTS branch." width="100%" /></a></td>
+<td width="50%" valign="top">
+<a href="https://github.com/aarnavshah12/Gesture-Chess"><img src="./media/gesture-chess.jpg" alt="Gesture Chess: actual project demo" width="100%" /></a>
+<h3>Gesture Chess</h3>
+<p>Webcam hand gestures driving a chess game.</p>
+<p><a href="https://github.com/aarnavshah12/Gesture-Chess">Code ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://aarnavshah.vercel.app/assets/videos/connect4.mp4"><img src="./media/connect4.gif" alt="Connect 4 Robot: actual project demo" width="100%" /></a>
+<h3>Connect 4 Robot</h3>
+<p>Camera-guided gameplay, a robot arm, and a self-play branch.</p>
+<p><a href="https://github.com/aarnavshah12/connect4-robot">Code ↗</a> · <a href="https://aarnavshah.vercel.app/assets/videos/connect4.mp4">Full demo ▶</a></p>
+</td>
 </tr>
 </table>
 
-Click a card for the code and build notes.
+The loops are clips from the real demos. Click a preview to open the full video or project.
 
 <img src="./profile-experience.svg" alt="I've worked on vision models and auto-labeling at Roboflow, battery ML research at Waterloo, and voice agents at Ally Solutions. I now work on humanoids and navigation with WATonomous." width="100%" />
 
