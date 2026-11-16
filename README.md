@@ -1,50 +1,40 @@
-<a href="https://aarnavshah.vercel.app"><img src="./profile-header.svg" alt="Aarnav Shah — computer vision, robots, and things I wanted to exist." width="100%" /></a>
+<a href="https://aarnavshah.vercel.app"><img src="./profile-chat.svg" alt="Hey, I'm Aarnav. Computer Engineering at Waterloo. I build across software, machine learning, and hardware." width="100%" /></a>
 
 <p align="center">
-  <a href="https://aarnavshah.vercel.app"><b>Website ↗</b></a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/aarnav-shah-a120042b1/">LinkedIn</a> &nbsp; · &nbsp;
-  <a href="https://www.youtube.com/watch?v=1jhJQZQAS4U">Watch a build</a>
+<a href="https://aarnavshah.vercel.app"><b>Explore my website ↗</b></a> &nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/aarnav-shah-a120042b1/">Find me on LinkedIn</a> &nbsp; · &nbsp;
+<a href="#a-few-things-ive-built">Browse the projects ↓</a>
 </p>
 
-I'm Aarnav, a computer engineering student at **Waterloo**. I build things that use cameras to understand the world, then do something with what they see. Sometimes that's a basketball coach. Sometimes it's a robot arm that plays Connect 4 and talks trash.
-
-I've worked on vision models and auto-labeling at **Roboflow**, ML research for redox flow batteries at **Waterloo's van der Heijden Lab**, and real-time voice agents at **Ally Solutions**. These days, I'm also working on humanoid manipulation and autonomous navigation with **WATonomous**.
+I'm a computer engineering student at **Waterloo**. I like the whole build: training the model, writing the app, and getting the hardware to cooperate. My projects tend to cross a few of those lines.
 
 ### A few things I've built
 
 <table>
 <tr>
-<td width="50%">
-<a href="https://github.com/aarnavshah12/connect4-robot"><img src="https://raw.githubusercontent.com/aarnavshah12/connect4-robot/main/docs/images/connect4-robot.webp" alt="My Connect 4 robot arm and physical board" width="100%" /></a>
-</td>
-<td width="50%">
-<h3>A robot with a competitive streak</h3>
-<p>It watches the board, picks a move, drops a chip, and talks trash. The original build uses minimax; the <a href="https://github.com/aarnavshah12/connect4-robot/tree/pytorch-self-play">PyTorch branch</a> adds a learned board reader and a policy trained through self-play, with PPO and neural MCTS.</p>
-<p><a href="https://github.com/aarnavshah12/connect4-robot"><b>Code ↗</b></a> · <a href="https://www.youtube.com/watch?v=1jhJQZQAS4U">Watch it play</a> · <a href="https://roboflow.com/blog/building-a-physical-ai-that-plays-connect-4">Build notes</a></p>
-</td>
+<td width="50%"><a href="https://github.com/aarnavshah12/shot-tracker"><img src="./project-shot-tracker.svg" alt="Shot Tracker: local basketball video analysis using RF-DETR and pose estimation." width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/aarnavshah12/Tabula"><img src="./project-tabula.svg" alt="Tabula, a team project: breadboard photos to KiCad schematics and routed PCBs." width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/aarnavshah12/Package-Track"><img src="./project-package-track.svg" alt="Package Track: iPhone detection, cloud verification, and an ESP32 delivery lockbox." width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/aarnavshah12/AutoDoc"><img src="./project-autodoc.svg" alt="AutoDoc, a team project: a VS Code extension for code comments and documentation." width="100%" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/aarnavshah12/Gesture-Chess"><img src="./project-gesture-chess.svg" alt="Gesture Chess: webcam hand controls using OpenCV, MediaPipe, and Pygame." width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/aarnavshah12/connect4-robot"><img src="./project-connect4.svg" alt="Connect 4 Robot: camera-based gameplay and an ESP32 robot arm, with a PyTorch PPO and neural MCTS branch." width="100%" /></a></td>
 </tr>
 </table>
 
-| Project | The idea |
-| :--- | :--- |
-| **[Shot Tracker](https://github.com/aarnavshah12/shot-tracker)** | Turn a phone recording of a basketball session into makes, misses, shot arcs, and release mechanics. RF-DETR + pose estimation, processed locally. |
-| **[Package Track](https://github.com/aarnavshah12/Package-Track)** | Give an old iPhone a job: spot deliveries and open an ESP32 porch lockbox after cloud verification. Includes a live dashboard and photo notifications. |
-| **[Tabula](https://github.com/aarnavshah12/Tabula)** · team project | Go from a breadboard photo to a KiCad schematic and routed PCB, using OpenCV, component detection, and Gemini-assisted netlists. |
-| **[Gesture Chess](https://github.com/aarnavshah12/Gesture-Chess)** | Play chess by pointing and pinching in front of a webcam. Python, OpenCV, MediaPipe, Pygame, and a minimax opponent. |
-| **[AutoDoc](https://github.com/aarnavshah12/AutoDoc)** · team project | A VS Code extension for generating code comments and documentation without leaving the editor. |
+Click a card for the code and build notes.
 
-### What I work with
+<img src="./profile-experience.svg" alt="I've worked on vision models and auto-labeling at Roboflow, battery ML research at Waterloo, and voice agents at Ally Solutions. I now work on humanoids and navigation with WATonomous." width="100%" />
 
-| | Tools & methods |
-| :--- | :--- |
-| **Languages** | Python · C++ · JavaScript · SQL · Swift |
-| **ML & vision** | PyTorch · scikit-learn · RF-DETR · OpenCV · Roboflow · Core ML · MediaPipe |
-| **Learning & evaluation** | Vision-language models · PPO · neural MCTS · Optuna · SHAP |
-| **Robotics & hardware** | ROS 2 · NVIDIA Isaac Sim · Gazebo · ESP32 · Raspberry Pi · UDP · SPI |
-| **Apps & tooling** | FastAPI · React · Node.js · WebSockets · Git · Docker · Slurm · KiCad |
+<img src="./profile-toolbox.svg" alt="My toolbox: Python, C++, JavaScript, SQL, Swift, PyTorch, scikit-learn, RF-DETR, OpenCV, Roboflow, Core ML, MediaPipe, VLMs, PPO, neural MCTS, Optuna, SHAP, ROS 2, Isaac Sim, Gazebo, ESP32, Raspberry Pi, UDP, SPI, FastAPI, React, Node.js, WebSockets, Git, Docker, Slurm, and KiCad." width="100%" />
 
-### Research & writing
+<img src="./profile-after-hours.svg" alt="Outside of code: cubing, video editing, card collecting, and travelling through Italy, France, Switzerland, Mexico, the US, and the Dominican Republic. My coolest card is a Base Set Bulbasaur." width="100%" />
 
-I co-authored **[A Machine Learning-Driven Modelling Framework for Predicting Redox Flow Battery Performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7193854)** (2026 preprint), using neural-network surrogates to predict battery performance from simulation data.
+### A couple of things to read
 
-I've also published **50+ computer vision guides and demos** through my work with Roboflow. I like writing up the build process: the model, the wiring, and what happened when I tried it. You can find the projects, articles, and more about me on **[my website](https://aarnavshah.vercel.app)**.
+**[50+ computer vision guides & demos](https://aarnavshah.vercel.app)** through my work with Roboflow. The code is more useful when someone else can build on it.
+
+**[Redox flow battery ML research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7193854)** · Co-author, 2026 preprint. Neural-network surrogates for predicting battery performance from simulation data.
