@@ -65,6 +65,6 @@ The loops are clips from the real demos. Click a preview to open the full video 
 
 ### A couple of things to read
 
-**[50+ computer vision guides & demos](https://aarnavshah.vercel.app)** through my work with Roboflow. The code is more useful when someone else can build on it.
+**[50+ computer vision guides & demos](https://roboflow.com/blog/author/aarnavshah)** through my work with Roboflow. The code is more useful when someone else can build on it.
 
 **[Redox flow battery ML research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7193854)** · Co-author, 2026 preprint. Neural-network surrogates for predicting battery performance from simulation data.
